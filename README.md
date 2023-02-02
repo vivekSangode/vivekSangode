@@ -12,7 +12,6 @@
 
 - 👯 I’m looking to collaborate **on some awesome ideas.**
 
-- 📫 How to reach me **vivekusangode@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
