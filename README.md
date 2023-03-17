@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate **on some awesome ideas.**
 
-- 👨‍💻 All of my projects are available at [https://vivekSangode.github.io/](https://vivekSangode.github.io/) 
+- 👨‍💻 All of my projects are available at https://viveksangode.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
